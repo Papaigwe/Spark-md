@@ -1,5 +1,5 @@
 {
-  "name": "zokou-2.0",
+  "name": "spark-md",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "Fedora",
     "FaouzKK"
   ],
-  "author": "Fedora && FaouzKK",
+  "author": "PAPA IGWE TECH",
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
